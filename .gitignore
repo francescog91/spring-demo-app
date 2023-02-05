@@ -2,9 +2,6 @@ HELP.md
 target/
 !**/src/main/**/target/
 !**/src/test/**/target/
-mvnw
-mvnw.cmd
-.mvn/wrapper/maven-wrapper.*
 
 ### STS ###
 .apt_generated
